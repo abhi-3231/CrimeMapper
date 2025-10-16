@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=CrimeMapperUI
+comment1.params=
+comment1.target=CrimeMapperUI()
+comment10.params=args
+comment10.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=javax.swing.JPanel\ createNavBar()
+comment3.params=
+comment3.target=javax.swing.JTabbedPane\ createTabbedPanel()
+comment4.params=
+comment4.target=javax.swing.JPanel\ createDashboardPanel()
+comment5.params=
+comment5.target=javax.swing.JPanel\ createMapOnlyPanel()
+comment6.params=
+comment6.target=javax.swing.JPanel\ createFilterPanel()
+comment7.params=
+comment7.target=javax.swing.JScrollPane\ createTablePanel()
+comment8.params=
+comment8.target=void\ refreshData()
+comment9.params=
+comment9.target=void\ applyFilters()
+numComments=11
